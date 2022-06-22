@@ -1,9 +1,6 @@
 #Day 3 - BMI Calculator v2
 
 # Greetings
-from traceback import print_tb
-
-
 print("This is a beginner level BMI calculator. This program will simply compute for your BMI and the result will be based from your age, height and, weight. \n \n")
 
 # Get user input while converting height to float and weight to int //and age to int.//
